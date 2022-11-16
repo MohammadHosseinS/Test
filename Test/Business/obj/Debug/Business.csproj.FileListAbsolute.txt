@@ -1,0 +1,11 @@
+C:\Users\moghari\Desktop\Test\Test\Business\bin\Debug\Business.dll
+C:\Users\moghari\Desktop\Test\Test\Business\bin\Debug\Business.pdb
+C:\Users\moghari\Desktop\Test\Test\Business\bin\Debug\Service.dll
+C:\Users\moghari\Desktop\Test\Test\Business\bin\Debug\Dapper.dll
+C:\Users\moghari\Desktop\Test\Test\Business\bin\Debug\Service.pdb
+C:\Users\moghari\Desktop\Test\Test\Business\bin\Debug\Dapper.xml
+C:\Users\moghari\Desktop\Test\Test\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\moghari\Desktop\Test\Test\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\moghari\Desktop\Test\Test\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\moghari\Desktop\Test\Test\Business\obj\Debug\Business.dll
+C:\Users\moghari\Desktop\Test\Test\Business\obj\Debug\Business.pdb

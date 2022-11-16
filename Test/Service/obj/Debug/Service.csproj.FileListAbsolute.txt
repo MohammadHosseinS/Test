@@ -1,0 +1,9 @@
+C:\Users\moghari\Desktop\Test\Test\Service\bin\Debug\Service.dll
+C:\Users\moghari\Desktop\Test\Test\Service\bin\Debug\Service.pdb
+C:\Users\moghari\Desktop\Test\Test\Service\bin\Debug\Dapper.dll
+C:\Users\moghari\Desktop\Test\Test\Service\bin\Debug\Dapper.xml
+C:\Users\moghari\Desktop\Test\Test\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\moghari\Desktop\Test\Test\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\moghari\Desktop\Test\Test\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\moghari\Desktop\Test\Test\Service\obj\Debug\Service.dll
+C:\Users\moghari\Desktop\Test\Test\Service\obj\Debug\Service.pdb
